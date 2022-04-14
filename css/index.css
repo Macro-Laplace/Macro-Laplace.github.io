@@ -3284,7 +3284,6 @@ h1.page-title + .tag-cloud-list {
 }
 #footer {
   position: relative;
-  background: #49b1f5;
   background-attachment: scroll;
   background-position: bottom;
   -webkit-background-size: cover;
@@ -3294,11 +3293,11 @@ h1.page-title + .tag-cloud-list {
 #footer-wrap {
   position: relative;
   padding: 40px 20px;
-  color: var(--light-grey);
+  color: #00c4b6;
   text-align: center;
 }
 #footer-wrap a {
-  color: var(--light-grey);
+  color: #00c4b6;
 }
 #footer-wrap a:hover {
   text-decoration: underline;

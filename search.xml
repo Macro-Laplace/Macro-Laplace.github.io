@@ -4,16 +4,66 @@
   
     
     <entry>
-      <title>为什么要搭建这个博客</title>
-      <link href="/archives/31861.html"/>
-      <url>/archives/31861.html</url>
+      <title>那个女孩</title>
+      <link href="/archives/30944.html"/>
+      <url>/archives/30944.html</url>
       
-        <content type="html"><![CDATA[<p>关于我为什么要搭建博客</p><p><img src="https://s2.loli.net/2022/04/14/Fhyn5WDY6iZJ1bA.png"></p>]]></content>
+        <content type="html"><![CDATA[<p>Her name is Iris. 她大概率拥有一个与我相似的灵魂。</p><p>我平时擅长对一切事物淡漠<br> 但我看到她<br> 我想<br> 摘一朵鲜花送给她​</p>]]></content>
       
       
       <categories>
           
-          <category> 生活感悟 </category>
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> about her </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的id由来</title>
+      <link href="/archives/44970.html"/>
+      <url>/archives/44970.html</url>
+      
+        <content type="html"><![CDATA[<p>我目前公开的id有两个,他们是</p><p>遥远的相似性</p><p>Macro-Laplace</p><p>我一般会以这两个名字加上一些标点符号作为社交平台的id。下面我解释一下这俩id的出处和由来</p><h2 id="遥远的相似性"><a href="#遥远的相似性" class="headerlink" title="遥远的相似性"></a>遥远的相似性</h2><p>这个词语出自霍金。记者曾采访霍金，问他人世间最让他感动的是什么，霍金认真思考后回答：遥远的相似性。</p><p>我的语言功底无法准确表达出这种诗意的、朦胧的映照关系。在此提供一个他人的回答<a href="https://www.zhihu.com/question/41351742"> 怎么婉转的形容遥远的相似性？ - 知乎 </a></p><h2 id="Macro-Lapalce"><a href="#Macro-Lapalce" class="headerlink" title="Macro-Lapalce"></a>Macro-Lapalce</h2><p>没有具体出处，我自己将两个单词组合起来造的</p><p>数学家Laplace坚信<a href="https://baike.baidu.com/item/%E5%86%B3%E5%AE%9A%E8%AE%BA/748990">决定论</a>，他在他的概述论（<em>Essai philosophique sur les probabilités</em>）导论部分写道：“我们可以把宇宙现在的状态视为其过去的果以及未来的因。如果一个智者能知道某一刻所有自然运动的力和所有自然构成的物件的位置，假如他也能够对这些数据进行分析，那宇宙里最大的物体到最小的粒子的运动都会包含在一条简单公式中。对于这智者来说没有事物会是含糊的，而未来只会像过去般出现在他面前。”拉普拉斯这里所说的“智者”即后人所谓的拉普拉斯妖。</p><p>由于近代量子力学的出现，粒子运动的不确定性。微观层面拉普拉斯妖无法通过物理定律得知粒子的准确运动。但是拉普拉斯妖假想仍然带给我们许多启示。与微观角度相似的，在宏观层面，社会以固定规律运作，人以自己的思维方式进行行动。这些规律理论上都是可以被获取并加以利用的。</p><p>我很喜欢不动声色的观察我周围的一切。通过已经发生的事，预测将来我周围事物可能的各个不同发展方向以及他们出现的概率。我总是忍不住这么做。在我看来，很多事情在还没发生前就已经几乎确定下来了，当这些事情真正发生时，我内心不会有任何波澜。</p><p>更进一步的，我再不满足于观察与预测，而是去影响。只要知道改变什么东西，并拥有这样的能力去造成这种改变，就能够使将来向某一种状态倾斜。从而更大概率地得到我更希望看到的未来。完成这样的事，需要两个条件，一是要尽可能全面掌握事物及他的发展规律。二是不断提升自己的改变能力。我一直都在试图让自己能够满足这样的条件。</p><p>以上是我非常喜欢的行动方式，所以我将它作为自己在网络中的名字</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>为什么要搭建这个博客</title>
+      <link href="/archives/31861.html"/>
+      <url>/archives/31861.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h2><p>最初有搭建博客的想法来自于一次上网抄C#作业的时候误入了我校一位学长的博客<a href="https://linyxxxxx.github.io/">二零拾肆 (linyxxxxx.github.io)</a>  从那以来,就一直想拥有自己的博客，奈何时间有限，相关知识薄弱，搭了好几次都以失败告终。直到最近又来了兴致，于是便花了大约俩个礼拜的闲暇时间，从看文档，看别人的教程，到最后自己改代码美化。终于是搭了个像模像样的基于Hexo框架，使用butterfly主题的静态博客。</p><h2 id="使用博客的目的"><a href="#使用博客的目的" class="headerlink" title="使用博客的目的"></a>使用博客的目的</h2><p>这种情感很难描述，我一直觉得，在一个极其普通的人短暂的一生中，如果他不是特别伟大，没有作出能够载入史册的贡献的话，那么他几乎不会有机会在这个世界留下一点痕迹，事实上绝大多数人都是这样，生来就只是为了维持社会的基本运作以及完成既定的社会繁衍任务罢了。这种虚无感常常使我感觉恐惧，我觉得有必要留下些什么以证明自身的存在。建一个博客显然是一个很好的途径来达成这个目的。github在我看来应该能够存在相当长的一段时间，只要github还在提供服务，我的博客就能一直运行下去。或许有一天，有个人会出于好奇，在Bing上或Google搜索Macro-Laplace或者是我博客中的一些相关内容，他有概率能够进入我的博客，在这其中了解到一些关于我的故事。</p><p>我所经历过的波澜壮阔与艰难困苦，最终不过是寥寥几笔。正在阅读这段话的人们，不管你们是谁，来自哪里，是否拥有与我相同的价值观与信仰，借用海子的一段诗来讲 “陌生人，我也为你祝福。愿你有一个灿烂的前程。愿你有情人终成眷属。愿你在尘世获得幸福”</p><p>此生幸与你们并肩。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
           
       </categories>
       
